@@ -36,7 +36,7 @@ const geoLayer = L.geoJSON(mapData, {
     let adjustedLatlng = latlng;
     if (duplicate) {
       // Offset by ~0.01 degrees per duplicate (roughly 1km)
-      const offset = 0.015 * (duplicate - 1);
+      const offset = 0.01 * (duplicate - 1);
       adjustedLatlng = L.latLng(
         latlng.lat + offset,
         latlng.lng + offset
@@ -79,6 +79,37 @@ const geoLayer = L.geoJSON(mapData, {
   }
 }).addTo(map);
 
+/* ---------- Connect points with lines ---------- */
+
+// Sort features by order to connect them sequentially
+const sortedFeatures = [...mapData.features].sort((a, b) => {
+  return a.properties.order - b.properties.order;
+});
+
+// Create line coordinates
+const lineCoordinates = sortedFeatures.map(feature => {
+  const latlng = L.latLng(
+    feature.geometry.coordinates[1],
+    feature.geometry.coordinates[0]
+  );
+
+  // Apply same offset as markers for duplicates
+  const duplicate = feature.properties.duplicate;
+  if (duplicate) {
+    const offset = 0.01 * (duplicate - 1);
+    return [latlng.lat + offset, latlng.lng + offset];
+  }
+
+  return [latlng.lat, latlng.lng];
+});
+
+// Draw the polyline
+const journeyLine = L.polyline(lineCoordinates, {
+  color: '#333',
+  weight: 2,
+  opacity: 0.6,
+  dashArray: '5, 10'
+}).addTo(map);
 
 /* ---------- Fit map to data ---------- */
 
