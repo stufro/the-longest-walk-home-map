@@ -1,6 +1,6 @@
 
 // AUTO-GENERATED FILE
-// Generated 2026-02-08T19:19:53.498Z
+// Generated 2026-02-08T19:52:04.585Z
 
 export const mapData = {
   "type": "FeatureCollection",
@@ -27,23 +27,6 @@ export const mapData = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.7646826,
-          49.6977145
-        ]
-      },
-      "properties": {
-        "place": "Abancourt",
-        "chapter": 6,
-        "event": "PoW march start",
-        "confidence": "high",
-        "order": 2
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0.7538866,
           49.6179384
         ]
@@ -54,7 +37,7 @@ export const mapData = {
         "event": "Signpost observed",
         "confidence": "low",
         "notes": "Timeline unclear in text",
-        "order": 3
+        "order": 2
       }
     },
     {
@@ -71,7 +54,8 @@ export const mapData = {
         "chapter": 6,
         "event": "Rouen Cathedral seen",
         "confidence": "medium",
-        "order": 4
+        "order": 3,
+        "duplicate": 1
       }
     },
     {
@@ -88,7 +72,7 @@ export const mapData = {
         "chapter": 6,
         "event": "PoW march",
         "confidence": "high",
-        "order": 5
+        "order": 4
       }
     },
     {
@@ -105,7 +89,8 @@ export const mapData = {
         "chapter": 6,
         "event": "PoW march",
         "confidence": "high",
-        "order": 6
+        "order": 5,
+        "duplicate": 1
       }
     },
     {
@@ -122,7 +107,25 @@ export const mapData = {
         "chapter": 6,
         "event": "PoW march",
         "confidence": "high",
-        "order": 7
+        "order": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7646826,
+          49.6977145
+        ]
+      },
+      "properties": {
+        "place": "Abancourt",
+        "chapter": 6,
+        "event": "PoW march start",
+        "confidence": "high",
+        "order": 7,
+        "duplicate": 1
       }
     },
     {
@@ -207,7 +210,8 @@ export const mapData = {
         "chapter": 7,
         "event": "Column swap / escape route",
         "confidence": "high",
-        "order": 12
+        "order": 12,
+        "duplicate": 1
       }
     },
     {
@@ -224,7 +228,8 @@ export const mapData = {
         "chapter": 8,
         "event": "André's intended destination",
         "confidence": "high",
-        "order": 13
+        "order": 13,
+        "duplicate": 1
       }
     },
     {
@@ -241,7 +246,8 @@ export const mapData = {
         "chapter": 8,
         "event": "Benoit family safe house",
         "confidence": "high",
-        "order": 14
+        "order": 14,
+        "duplicate": 1
       }
     },
     {
@@ -275,7 +281,8 @@ export const mapData = {
         "chapter": 9,
         "event": "Cycling route",
         "confidence": "high",
-        "order": 16
+        "order": 16,
+        "duplicate": 1
       }
     },
     {
@@ -292,7 +299,8 @@ export const mapData = {
         "chapter": 9,
         "event": "Cycling route",
         "confidence": "high",
-        "order": 17
+        "order": 17,
+        "duplicate": 1
       }
     },
     {
@@ -309,7 +317,8 @@ export const mapData = {
         "chapter": 9,
         "event": "Cycling route",
         "confidence": "high",
-        "order": 18
+        "order": 18,
+        "duplicate": 1
       }
     },
     {
@@ -428,7 +437,8 @@ export const mapData = {
         "chapter": 9,
         "event": "Return via Saint-Omer",
         "confidence": "high",
-        "order": 25
+        "order": 25,
+        "duplicate": 2
       }
     },
     {
@@ -445,7 +455,8 @@ export const mapData = {
         "chapter": 9,
         "event": "Return route",
         "confidence": "high",
-        "order": 26
+        "order": 26,
+        "duplicate": 2
       }
     },
     {
@@ -462,7 +473,8 @@ export const mapData = {
         "chapter": 9,
         "event": "Return route",
         "confidence": "high",
-        "order": 27
+        "order": 27,
+        "duplicate": 2
       }
     },
     {
@@ -479,7 +491,8 @@ export const mapData = {
         "chapter": 9,
         "event": "Return to Béthune",
         "confidence": "high",
-        "order": 28
+        "order": 28,
+        "duplicate": 2
       }
     },
     {
@@ -513,7 +526,8 @@ export const mapData = {
         "chapter": 9,
         "event": "Return to Benoit family",
         "confidence": "high",
-        "order": 30
+        "order": 30,
+        "duplicate": 2
       }
     },
     {
@@ -649,7 +663,8 @@ export const mapData = {
         "chapter": 10,
         "event": "Spent night in hedge",
         "confidence": "high",
-        "order": 38
+        "order": 38,
+        "duplicate": 2
       }
     },
     {
@@ -666,7 +681,8 @@ export const mapData = {
         "chapter": 10,
         "event": "Puncture, stole another bike",
         "confidence": "high",
-        "order": 39
+        "order": 39,
+        "duplicate": 2
       }
     },
     {
@@ -683,7 +699,8 @@ export const mapData = {
         "chapter": 10,
         "event": "Made it to Rouen",
         "confidence": "high",
-        "order": 40
+        "order": 40,
+        "duplicate": 2
       }
     },
     {
@@ -734,7 +751,8 @@ export const mapData = {
         "chapter": 11,
         "event": "Found way back to Rouen",
         "confidence": "high",
-        "order": 43
+        "order": 43,
+        "duplicate": 3
       }
     },
     {
@@ -751,7 +769,8 @@ export const mapData = {
         "chapter": 11,
         "event": "Took road to Caen",
         "confidence": "high",
-        "order": 44
+        "order": 44,
+        "duplicate": 1
       }
     },
     {
@@ -785,7 +804,8 @@ export const mapData = {
         "chapter": 11,
         "event": "Approached Cherbourg",
         "confidence": "high",
-        "order": 46
+        "order": 46,
+        "duplicate": 2
       }
     },
     {
@@ -802,7 +822,8 @@ export const mapData = {
         "chapter": 11,
         "event": "Back to Caen",
         "confidence": "high",
-        "order": 47
+        "order": 47,
+        "duplicate": 2
       }
     },
     {

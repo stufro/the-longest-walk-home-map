@@ -30,6 +30,18 @@ const geoLayer = L.geoJSON(mapData, {
   pointToLayer: (feature, latlng) => {
     const chapter = feature.properties.chapter;
     const order = feature.properties.order;
+    const duplicate = feature.properties.duplicate;
+
+    // Offset duplicate markers to prevent overlapping
+    let adjustedLatlng = latlng;
+    if (duplicate) {
+      // Offset by ~0.01 degrees per duplicate (roughly 1km)
+      const offset = 0.015 * (duplicate - 1);
+      adjustedLatlng = L.latLng(
+        latlng.lat + offset,
+        latlng.lng + offset
+      );
+    }
 
     const icon = L.divIcon({
       className: "numbered-icon",
@@ -52,15 +64,15 @@ const geoLayer = L.geoJSON(mapData, {
       iconAnchor: [12, 12]
     });
 
-    return L.marker(latlng, { icon });
+    return L.marker(adjustedLatlng, { icon });
   },
 
   onEachFeature: (feature, layer) => {
-    const { place, chapter, event, confidence } = feature.properties;
+    const { place, chapter, event, confidence, duplicate, order } = feature.properties;
 
     layer.bindPopup(`
-      <strong>${place}</strong><br>
-      Chapter ${chapter}<br>
+      <strong>${place}</strong> ${duplicate ? `(Visit #${duplicate})` : ""}<br>
+      Step ${order} • Chapter ${chapter}<br>
       ${event || ""}<br>
       <em>Confidence: ${confidence || "unknown"}</em>
     `);
