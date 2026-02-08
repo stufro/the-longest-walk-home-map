@@ -26,6 +26,9 @@ const chapterColours = {
 
 /* ---------- Marker layer ---------- */
 
+// Store markers by chapter for toggling visibility
+const markersByChapter = {};
+
 const geoLayer = L.geoJSON(mapData, {
   pointToLayer: (feature, latlng) => {
     const chapter = feature.properties.chapter;
@@ -64,7 +67,15 @@ const geoLayer = L.geoJSON(mapData, {
       iconAnchor: [12, 12]
     });
 
-    return L.marker(adjustedLatlng, { icon });
+    const marker = L.marker(adjustedLatlng, { icon });
+
+    // Store marker by chapter
+    if (!markersByChapter[chapter]) {
+      markersByChapter[chapter] = [];
+    }
+    markersByChapter[chapter].push(marker);
+
+    return marker;
   },
 
   onEachFeature: (feature, layer) => {
@@ -117,23 +128,50 @@ map.fitBounds(geoLayer.getBounds(), { padding: [20, 20] });
 
 /* ---------- Legend ---------- */
 
+// Track which chapters are visible
+const visibleChapters = new Set(Object.keys(chapterColours));
+
 const legend = L.control({ position: "bottomright" });
 
 legend.onAdd = () => {
   const div = L.DomUtil.create("div", "legend");
-  div.innerHTML = "<strong>Chapters</strong><br>";
+  div.innerHTML = "<strong>Chapters</strong><br><small>(click to toggle)</small>";
 
   Object.keys(chapterColours).forEach(ch => {
-    div.innerHTML += `
-      <span style="
+    const item = document.createElement("div");
+    item.style.cursor = "pointer";
+    item.style.padding = "2px 0";
+    item.style.userSelect = "none";
+    item.dataset.chapter = ch;
+
+    item.innerHTML = `
+      <span class="legend-color" style="
         display:inline-block;
         width:10px;
         height:10px;
         background:${chapterColours[ch]};
         margin-right:6px;
       "></span>
-      Chapter ${ch}<br>
+      <span class="legend-text">Chapter ${ch}</span>
     `;
+
+    item.addEventListener("click", () => {
+      if (visibleChapters.has(ch)) {
+        // Hide chapter
+        visibleChapters.delete(ch);
+        markersByChapter[ch]?.forEach(marker => map.removeLayer(marker));
+        item.style.opacity = "0.4";
+        item.style.textDecoration = "line-through";
+      } else {
+        // Show chapter
+        visibleChapters.add(ch);
+        markersByChapter[ch]?.forEach(marker => map.addLayer(marker));
+        item.style.opacity = "1";
+        item.style.textDecoration = "none";
+      }
+    });
+
+    div.appendChild(item);
   });
 
   return div;
