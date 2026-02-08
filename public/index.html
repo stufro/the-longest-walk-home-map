@@ -6,6 +6,8 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+  <link rel="stylesheet" href="./milligram.min.css">
+
   <!-- Leaflet CSS -->
   <link
     rel="stylesheet"
@@ -20,18 +22,26 @@
       font-family: system-ui, -apple-system, sans-serif;
     }
     #map {
-      height: 100vh;
+      height: 90vh;
       width: 100%;
     }
+
     .legend {
       background: white;
       padding: 8px 10px;
       line-height: 1.4;
       font-size: 14px;
     }
+
+    .header { 
+      margin: 2rem;
+    }
   </style>
 </head>
 <body>
+  <div class="header">
+    <h1>The Longest Walk Home</h1>
+  </div>
 
   <div id="map"></div>
 
