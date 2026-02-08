@@ -1,0 +1,1655 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7106831,
+          49.8597004
+        ]
+      },
+      "properties": {
+        "place": "Saint-Valery-en-Caux",
+        "chapter": 5,
+        "event": "Allied surrender, 22 June 1940",
+        "confidence": "high",
+        "order": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7646826,
+          49.6977145
+        ]
+      },
+      "properties": {
+        "place": "Abancourt",
+        "chapter": 6,
+        "event": "PoW march start",
+        "confidence": "high",
+        "order": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7538866,
+          49.6179384
+        ]
+      },
+      "properties": {
+        "place": "Yvetot",
+        "chapter": 6,
+        "event": "Signpost observed",
+        "confidence": "low",
+        "notes": "Timeline unclear in text",
+        "order": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0939658,
+          49.4404591
+        ]
+      },
+      "properties": {
+        "place": "Rouen",
+        "chapter": 6,
+        "event": "Rouen Cathedral seen",
+        "confidence": "medium",
+        "order": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3583539,
+          49.5843382
+        ]
+      },
+      "properties": {
+        "place": "Buchy",
+        "chapter": 6,
+        "event": "PoW march",
+        "confidence": "high",
+        "order": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5455284,
+          49.613106
+        ]
+      },
+      "properties": {
+        "place": "Forges-les-Eaux",
+        "chapter": 6,
+        "event": "PoW march",
+        "confidence": "high",
+        "order": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6154137,
+          49.6532345
+        ]
+      },
+      "properties": {
+        "place": "Gaillefontaine",
+        "chapter": 6,
+        "event": "PoW march",
+        "confidence": "high",
+        "order": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.941064,
+          49.9662697
+        ]
+      },
+      "properties": {
+        "place": "Airaines",
+        "chapter": 6,
+        "event": "PoW march",
+        "confidence": "high",
+        "order": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3410532,
+          50.1572085
+        ]
+      },
+      "properties": {
+        "place": "Doullens",
+        "chapter": 6,
+        "event": "Citadel / PoW camp",
+        "confidence": "high",
+        "order": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2929785,
+          50.2782128
+        ]
+      },
+      "properties": {
+        "place": "Frévent",
+        "chapter": 7,
+        "event": "March stop",
+        "confidence": "medium",
+        "order": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3361053,
+          50.3812113
+        ]
+      },
+      "properties": {
+        "place": "Saint-Pol-sur-Ternoise",
+        "chapter": 7,
+        "event": "PoW march",
+        "confidence": "high",
+        "order": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6389115,
+          50.5309351
+        ]
+      },
+      "properties": {
+        "place": "Béthune",
+        "chapter": 7,
+        "event": "Column swap / escape route",
+        "confidence": "high",
+        "order": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6249565,
+          49.6425343
+        ]
+      },
+      "properties": {
+        "place": "Cherbourg",
+        "chapter": 8,
+        "event": "André's intended destination",
+        "confidence": "high",
+        "order": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8837284,
+          50.3833662
+        ]
+      },
+      "properties": {
+        "place": "Acheville",
+        "chapter": 8,
+        "event": "Benoit family safe house",
+        "confidence": "high",
+        "order": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8319805,
+          50.4291723
+        ]
+      },
+      "properties": {
+        "place": "Lens",
+        "chapter": 9,
+        "event": "Cycling route",
+        "confidence": "high",
+        "order": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.47604,
+          50.5606
+        ]
+      },
+      "properties": {
+        "place": "Lillers",
+        "chapter": 9,
+        "event": "Cycling route",
+        "confidence": "high",
+        "order": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.410162,
+          50.5855518
+        ]
+      },
+      "properties": {
+        "place": "Norrent-Fontes",
+        "chapter": 9,
+        "event": "Cycling route",
+        "confidence": "high",
+        "order": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2534183,
+          50.7515771
+        ]
+      },
+      "properties": {
+        "place": "Saint-Omer",
+        "chapter": 9,
+        "event": "Cycling route",
+        "confidence": "high",
+        "order": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.933694,
+          50.9072312
+        ]
+      },
+      "properties": {
+        "place": "Les Attaques",
+        "chapter": 9,
+        "event": "Approach to Calais",
+        "confidence": "high",
+        "order": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8538446,
+          50.9524769
+        ]
+      },
+      "properties": {
+        "place": "Calais",
+        "chapter": 9,
+        "event": "Failed evacuation",
+        "confidence": "high",
+        "order": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.95199,
+          50.949
+        ]
+      },
+      "properties": {
+        "place": "Marck",
+        "chapter": 9,
+        "event": "Route to Dunkirk",
+        "confidence": "high",
+        "order": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3772525,
+          51.0347708
+        ]
+      },
+      "properties": {
+        "place": "Dunkirk",
+        "chapter": 9,
+        "event": "Failed approach",
+        "confidence": "high",
+        "order": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8704408,
+          50.8690859
+        ]
+      },
+      "properties": {
+        "place": "Guines",
+        "chapter": 9,
+        "event": "Return route",
+        "confidence": "high",
+        "order": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9786068,
+          50.8536324
+        ]
+      },
+      "properties": {
+        "place": "Ardres",
+        "chapter": 9,
+        "event": "Return route",
+        "confidence": "high",
+        "order": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2534183,
+          50.7515771
+        ]
+      },
+      "properties": {
+        "place": "Saint-Omer",
+        "chapter": 9,
+        "event": "Return via Saint-Omer",
+        "confidence": "high",
+        "order": 25
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.410162,
+          50.5855518
+        ]
+      },
+      "properties": {
+        "place": "Norrent-Fontes",
+        "chapter": 9,
+        "event": "Return route",
+        "confidence": "high",
+        "order": 26
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.47604,
+          50.5606
+        ]
+      },
+      "properties": {
+        "place": "Lillers",
+        "chapter": 9,
+        "event": "Return route",
+        "confidence": "high",
+        "order": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6389115,
+          50.5309351
+        ]
+      },
+      "properties": {
+        "place": "Béthune",
+        "chapter": 9,
+        "event": "Return to Béthune",
+        "confidence": "high",
+        "order": 28
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6620888,
+          50.4808898
+        ]
+      },
+      "properties": {
+        "place": "Nœux-les-Mines",
+        "chapter": 9,
+        "event": "Bicycle crash",
+        "confidence": "high",
+        "order": 29
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8837284,
+          50.3833662
+        ]
+      },
+      "properties": {
+        "place": "Acheville",
+        "chapter": 9,
+        "event": "Return to Benoit family",
+        "confidence": "high",
+        "order": 30
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8107935,
+          50.3732652
+        ]
+      },
+      "properties": {
+        "place": "Vimy",
+        "chapter": 10,
+        "event": "Joined main road",
+        "confidence": "high",
+        "order": 31
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7772211,
+          50.291048
+        ]
+      },
+      "properties": {
+        "place": "Arras",
+        "chapter": 10,
+        "event": "Transit town",
+        "confidence": "high",
+        "order": 32
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8496211,
+          50.1038393
+        ]
+      },
+      "properties": {
+        "place": "Bapaume",
+        "chapter": 10,
+        "event": "Main road",
+        "confidence": "high",
+        "order": 33
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6509223,
+          50.0018022
+        ]
+      },
+      "properties": {
+        "place": "Albert",
+        "chapter": 10,
+        "event": "Main road",
+        "confidence": "high",
+        "order": 34
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1972518,
+          49.954688
+        ]
+      },
+      "properties": {
+        "place": "Puisieux",
+        "chapter": 10,
+        "event": "Secondary road",
+        "confidence": "high",
+        "order": 35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5131611,
+          50.0074829
+        ]
+      },
+      "properties": {
+        "place": "Contay",
+        "chapter": 10,
+        "event": "Secondary road",
+        "confidence": "high",
+        "order": 36
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2951889,
+          49.8943081
+        ]
+      },
+      "properties": {
+        "place": "Amiens",
+        "chapter": 10,
+        "event": "Saw bombed city",
+        "confidence": "high",
+        "order": 37
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7646826,
+          49.6977145
+        ]
+      },
+      "properties": {
+        "place": "Abancourt",
+        "chapter": 10,
+        "event": "Spent night in hedge",
+        "confidence": "high",
+        "order": 38
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5455284,
+          49.613106
+        ]
+      },
+      "properties": {
+        "place": "Forges-les-Eaux",
+        "chapter": 10,
+        "event": "Puncture, stole another bike",
+        "confidence": "high",
+        "order": 39
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0939658,
+          49.4404591
+        ]
+      },
+      "properties": {
+        "place": "Rouen",
+        "chapter": 10,
+        "event": "Made it to Rouen",
+        "confidence": "high",
+        "order": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9956527,
+          49.0342516
+        ]
+      },
+      "properties": {
+        "place": "Elbeuf",
+        "chapter": 10,
+        "event": "Near River Seine",
+        "confidence": "high",
+        "order": 41
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1512062,
+          49.0234156
+        ]
+      },
+      "properties": {
+        "place": "Évreux",
+        "chapter": 10,
+        "event": "Cycling route",
+        "confidence": "high",
+        "order": 42
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0939658,
+          49.4404591
+        ]
+      },
+      "properties": {
+        "place": "Rouen",
+        "chapter": 11,
+        "event": "Found way back to Rouen",
+        "confidence": "high",
+        "order": 43
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4817552,
+          49.1827818
+        ]
+      },
+      "properties": {
+        "place": "Caen",
+        "chapter": 11,
+        "event": "Took road to Caen",
+        "confidence": "high",
+        "order": 44
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7034284,
+          49.2778855
+        ]
+      },
+      "properties": {
+        "place": "Bayeux",
+        "chapter": 11,
+        "event": "Reached Bayeux",
+        "confidence": "high",
+        "order": 45
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6249565,
+          49.6425343
+        ]
+      },
+      "properties": {
+        "place": "Cherbourg",
+        "chapter": 11,
+        "event": "Approached Cherbourg",
+        "confidence": "high",
+        "order": 46
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4817552,
+          49.1827818
+        ]
+      },
+      "properties": {
+        "place": "Caen",
+        "chapter": 11,
+        "event": "Back to Caen",
+        "confidence": "high",
+        "order": 47
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1995876,
+          47.9952308
+        ]
+      },
+      "properties": {
+        "place": "Le Mans",
+        "chapter": 11,
+        "event": "Passed through on foot",
+        "confidence": "high",
+        "order": 48
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6889268,
+          47.3900474
+        ]
+      },
+      "properties": {
+        "place": "Tours",
+        "chapter": 11,
+        "event": "Navigation decision point",
+        "confidence": "high",
+        "order": 49
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9979549,
+          47.1281692
+        ]
+      },
+      "properties": {
+        "place": "Loches",
+        "chapter": 11,
+        "event": "First town in Vichy France",
+        "confidence": "high",
+        "order": 50
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6906432,
+          46.8112973
+        ]
+      },
+      "properties": {
+        "place": "Châteauroux",
+        "chapter": 12,
+        "event": "Passed through",
+        "confidence": "high",
+        "order": 51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1697767,
+          45.9570844
+        ]
+      },
+      "properties": {
+        "place": "Aubusson",
+        "chapter": 12,
+        "event": "On route south",
+        "confidence": "high",
+        "order": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0872396,
+          45.7774551
+        ]
+      },
+      "properties": {
+        "place": "Clermont-Ferrand",
+        "chapter": 12,
+        "event": "On route south",
+        "confidence": "high",
+        "order": 53
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7519437,
+          45.5505548
+        ]
+      },
+      "properties": {
+        "place": "Ambert",
+        "chapter": 12,
+        "event": "On route south",
+        "confidence": "high",
+        "order": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0642764,
+          45.4083768
+        ]
+      },
+      "properties": {
+        "place": "Montbrison",
+        "chapter": 12,
+        "event": "On route south",
+        "confidence": "high",
+        "order": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3872355,
+          45.4397028
+        ]
+      },
+      "properties": {
+        "place": "Saint-Étienne",
+        "chapter": 12,
+        "event": "On route south",
+        "confidence": "high",
+        "order": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5539471,
+          45.0799168
+        ]
+      },
+      "properties": {
+        "place": "Bourg-Argental",
+        "chapter": 12,
+        "event": "On route south",
+        "confidence": "high",
+        "order": 57
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6699488,
+          45.2393586
+        ]
+      },
+      "properties": {
+        "place": "Annonay",
+        "chapter": 12,
+        "event": "On route south",
+        "confidence": "high",
+        "order": 58
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7985839,
+          45.2420849
+        ]
+      },
+      "properties": {
+        "place": "Andance",
+        "chapter": 12,
+        "event": "Reached River Rhône",
+        "confidence": "high",
+        "order": 59
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8334942,
+          45.0698449
+        ]
+      },
+      "properties": {
+        "place": "Tournon-sur-Rhône",
+        "chapter": 12,
+        "event": "On route south",
+        "confidence": "high",
+        "order": 60
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6152076,
+          44.1626118
+        ]
+      },
+      "properties": {
+        "place": "Bagnols-sur-Cèze",
+        "chapter": 12,
+        "event": "On route south",
+        "confidence": "high",
+        "order": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8082559,
+          43.9493077
+        ]
+      },
+      "properties": {
+        "place": "Avignon",
+        "chapter": 12,
+        "event": "On route south",
+        "confidence": "high",
+        "order": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3699525,
+          43.2961743
+        ]
+      },
+      "properties": {
+        "place": "Marseille",
+        "chapter": 12,
+        "event": "Interned at Fort Saint-Jean",
+        "confidence": "high",
+        "order": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3714826,
+          43.4200904
+        ]
+      },
+      "properties": {
+        "place": "Les Pennes-Mirabeau",
+        "chapter": 16,
+        "event": "On route to Perpignan",
+        "confidence": "high",
+        "order": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0955834,
+          43.6405623
+        ]
+      },
+      "properties": {
+        "place": "Salon-de-Provence",
+        "chapter": 16,
+        "event": "Got a lift here",
+        "confidence": "high",
+        "order": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8095059,
+          43.6450515
+        ]
+      },
+      "properties": {
+        "place": "Saint-Martin-de-Crau",
+        "chapter": 16,
+        "event": "On route to Perpignan",
+        "confidence": "high",
+        "order": 66
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6288168,
+          43.6762822
+        ]
+      },
+      "properties": {
+        "place": "Arles",
+        "chapter": 16,
+        "event": "On route to Perpignan",
+        "confidence": "high",
+        "order": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4320557,
+          43.6769245
+        ]
+      },
+      "properties": {
+        "place": "Saint-Gilles",
+        "chapter": 16,
+        "event": "On route to Perpignan",
+        "confidence": "high",
+        "order": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.876716,
+          43.7402289
+        ]
+      },
+      "properties": {
+        "place": "Vendargues",
+        "chapter": 16,
+        "event": "Bypass route around Montpellier",
+        "confidence": "high",
+        "order": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8929826,
+          43.6836471
+        ]
+      },
+      "properties": {
+        "place": "Clapiers",
+        "chapter": 16,
+        "event": "Bypass route around Montpellier",
+        "confidence": "high",
+        "order": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8622279,
+          43.6634881
+        ]
+      },
+      "properties": {
+        "place": "Montferrier-sur-Lez",
+        "chapter": 16,
+        "event": "Bypass route around Montpellier",
+        "confidence": "high",
+        "order": 71
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7213063,
+          43.6371527
+        ]
+      },
+      "properties": {
+        "place": "Bel-Air",
+        "chapter": 16,
+        "event": "Tiny hamlet on route",
+        "confidence": "medium",
+        "order": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6049787,
+          43.6782598
+        ]
+      },
+      "properties": {
+        "place": "Saint-Paul-et-Valmalle",
+        "chapter": 16,
+        "event": "On route to Perpignan",
+        "confidence": "high",
+        "order": 73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5302291,
+          43.685855
+        ]
+      },
+      "properties": {
+        "place": "Le Pouget",
+        "chapter": 16,
+        "event": "On route to Perpignan",
+        "confidence": "high",
+        "order": 74
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4316833,
+          43.6276866
+        ]
+      },
+      "properties": {
+        "place": "Clermont-l'Hérault",
+        "chapter": 16,
+        "event": "On route to Perpignan",
+        "confidence": "high",
+        "order": 75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4227965,
+          43.4600504
+        ]
+      },
+      "properties": {
+        "place": "Pézenas",
+        "chapter": 16,
+        "event": "On route to Perpignan",
+        "confidence": "high",
+        "order": 76
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2150854,
+          43.340915
+        ]
+      },
+      "properties": {
+        "place": "Béziers",
+        "chapter": 16,
+        "event": "On route to Perpignan",
+        "confidence": "high",
+        "order": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8953121,
+          42.6985304
+        ]
+      },
+      "properties": {
+        "place": "Perpignan",
+        "chapter": 16,
+        "event": "Pre-border staging",
+        "confidence": "high",
+        "order": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8267763,
+          42.7448721
+        ]
+      },
+      "properties": {
+        "place": "Le Soler",
+        "chapter": 16,
+        "event": "Headed west from Perpignan",
+        "confidence": "high",
+        "order": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7833138,
+          42.6408639
+        ]
+      },
+      "properties": {
+        "place": "Ponteilla",
+        "chapter": 16,
+        "event": "Pre-border route",
+        "confidence": "high",
+        "order": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7564683,
+          42.5733994
+        ]
+      },
+      "properties": {
+        "place": "Fourques",
+        "chapter": 17,
+        "event": "Pyrenees foothills",
+        "confidence": "high",
+        "order": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7386551,
+          42.5388548
+        ]
+      },
+      "properties": {
+        "place": "Llauro",
+        "chapter": 17,
+        "event": "Small hamlet in foothills",
+        "confidence": "high",
+        "order": 82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7132864,
+          42.4808677
+        ]
+      },
+      "properties": {
+        "place": "Reynés",
+        "chapter": 17,
+        "event": "Last village in France",
+        "confidence": "high",
+        "order": 83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7273117,
+          42.4227982
+        ]
+      },
+      "properties": {
+        "place": "Roc de France",
+        "chapter": 17,
+        "event": "Pyrenees crossing",
+        "confidence": "medium",
+        "order": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7610831,
+          42.3809785
+        ]
+      },
+      "properties": {
+        "place": "Maçanet de Cabrenys",
+        "chapter": 18,
+        "event": "First village in Spain",
+        "confidence": "high",
+        "order": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7938893,
+          42.3261595
+        ]
+      },
+      "properties": {
+        "place": "Pont de Molins",
+        "chapter": 18,
+        "event": "Spanish route",
+        "confidence": "high",
+        "order": 86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9611809,
+          42.2668267
+        ]
+      },
+      "properties": {
+        "place": "Figueres",
+        "chapter": 18,
+        "event": "Left around 10th October",
+        "confidence": "high",
+        "order": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9676673,
+          42.2285806
+        ]
+      },
+      "properties": {
+        "place": "Vilamalla",
+        "chapter": 18,
+        "event": "Spanish route",
+        "confidence": "high",
+        "order": 88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0305639,
+          41.784194
+        ]
+      },
+      "properties": {
+        "place": "Sant Feliu de Guíxols",
+        "chapter": 18,
+        "event": "Coastal route to Barcelona",
+        "confidence": "high",
+        "order": 89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.932246,
+          41.7193894
+        ]
+      },
+      "properties": {
+        "place": "Tossa de Mar",
+        "chapter": 18,
+        "event": "Coastal route",
+        "confidence": "high",
+        "order": 90
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6581698,
+          41.6098763
+        ]
+      },
+      "properties": {
+        "place": "Calella",
+        "chapter": 18,
+        "event": "Coastal route",
+        "confidence": "high",
+        "order": 91
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7404959,
+          41.5752682
+        ]
+      },
+      "properties": {
+        "place": "Malgrat de Mar",
+        "chapter": 18,
+        "event": "Coastal route",
+        "confidence": "high",
+        "order": 92
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5534433,
+          41.5795849
+        ]
+      },
+      "properties": {
+        "place": "Arenys de Mar",
+        "chapter": 18,
+        "event": "Coastal route",
+        "confidence": "high",
+        "order": 93
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4449485,
+          41.5400815
+        ]
+      },
+      "properties": {
+        "place": "Mataró",
+        "chapter": 18,
+        "event": "Coastal route",
+        "confidence": "high",
+        "order": 94
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.248254,
+          41.4493539
+        ]
+      },
+      "properties": {
+        "place": "Badalona",
+        "chapter": 18,
+        "event": "Approach to Barcelona",
+        "confidence": "high",
+        "order": 95
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1965166,
+          41.4130274
+        ]
+      },
+      "properties": {
+        "place": "Sant Martí",
+        "chapter": 18,
+        "event": "Approach to Barcelona",
+        "confidence": "high",
+        "order": 96
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.177073,
+          41.3825802
+        ]
+      },
+      "properties": {
+        "place": "Barcelona",
+        "chapter": 18,
+        "event": "Journey end",
+        "confidence": "high",
+        "order": 97
+      }
+    }
+  ]
+}
