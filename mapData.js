@@ -1,6 +1,6 @@
 
 // AUTO-GENERATED FILE
-// Generated 2026-02-08T20:04:56.666Z
+// Generated 2026-02-09T14:00:03.927Z
 
 export const mapData = {
   "type": "FeatureCollection",
@@ -349,26 +349,9 @@ export const mapData = {
       "properties": {
         "place": "Marck",
         "chapter": 9,
-        "event": "Route to Dunkirk",
+        "event": "Failed approach to Dunkirk",
         "confidence": "high",
         "order": 20
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.3772525,
-          51.0347708
-        ]
-      },
-      "properties": {
-        "place": "Dunkirk",
-        "chapter": 9,
-        "event": "Failed approach",
-        "confidence": "high",
-        "order": 21
       }
     },
     {
@@ -385,7 +368,7 @@ export const mapData = {
         "chapter": 9,
         "event": "Return route",
         "confidence": "high",
-        "order": 22
+        "order": 21
       }
     },
     {
@@ -402,7 +385,7 @@ export const mapData = {
         "chapter": 9,
         "event": "Return route",
         "confidence": "high",
-        "order": 23
+        "order": 22
       }
     },
     {
@@ -419,7 +402,7 @@ export const mapData = {
         "chapter": 9,
         "event": "Return via Saint-Omer",
         "confidence": "high",
-        "order": 24,
+        "order": 23,
         "duplicate": 2
       }
     },
@@ -437,7 +420,7 @@ export const mapData = {
         "chapter": 9,
         "event": "Return route",
         "confidence": "high",
-        "order": 25,
+        "order": 24,
         "duplicate": 2
       }
     },
@@ -455,7 +438,7 @@ export const mapData = {
         "chapter": 9,
         "event": "Return route",
         "confidence": "high",
-        "order": 26,
+        "order": 25,
         "duplicate": 2
       }
     },
@@ -473,7 +456,7 @@ export const mapData = {
         "chapter": 9,
         "event": "Return to Béthune",
         "confidence": "high",
-        "order": 27,
+        "order": 26,
         "duplicate": 2
       }
     },
@@ -491,7 +474,7 @@ export const mapData = {
         "chapter": 9,
         "event": "Bicycle crash",
         "confidence": "high",
-        "order": 28
+        "order": 27
       }
     },
     {
@@ -508,7 +491,7 @@ export const mapData = {
         "chapter": 9,
         "event": "Return to Benoit family",
         "confidence": "high",
-        "order": 29,
+        "order": 28,
         "duplicate": 2
       }
     },
@@ -526,7 +509,7 @@ export const mapData = {
         "chapter": 10,
         "event": "Joined main road",
         "confidence": "high",
-        "order": 30
+        "order": 29
       }
     },
     {
@@ -543,7 +526,7 @@ export const mapData = {
         "chapter": 10,
         "event": "Transit town",
         "confidence": "high",
-        "order": 31
+        "order": 30
       }
     },
     {
@@ -560,7 +543,7 @@ export const mapData = {
         "chapter": 10,
         "event": "Main road",
         "confidence": "high",
-        "order": 32
+        "order": 31
       }
     },
     {
@@ -577,7 +560,7 @@ export const mapData = {
         "chapter": 10,
         "event": "Main road",
         "confidence": "high",
-        "order": 33
+        "order": 32
       }
     },
     {
@@ -594,7 +577,7 @@ export const mapData = {
         "chapter": 10,
         "event": "Secondary road",
         "confidence": "high",
-        "order": 34
+        "order": 33
       }
     },
     {
@@ -611,7 +594,7 @@ export const mapData = {
         "chapter": 10,
         "event": "Secondary road",
         "confidence": "high",
-        "order": 35
+        "order": 34
       }
     },
     {
@@ -628,7 +611,7 @@ export const mapData = {
         "chapter": 10,
         "event": "Saw bombed city",
         "confidence": "high",
-        "order": 36
+        "order": 35
       }
     },
     {
@@ -645,7 +628,7 @@ export const mapData = {
         "chapter": 10,
         "event": "Spent night in hedge",
         "confidence": "high",
-        "order": 37,
+        "order": 36,
         "duplicate": 2
       }
     },
@@ -663,7 +646,7 @@ export const mapData = {
         "chapter": 10,
         "event": "Puncture, stole another bike",
         "confidence": "high",
-        "order": 38,
+        "order": 37,
         "duplicate": 2
       }
     },
@@ -681,7 +664,7 @@ export const mapData = {
         "chapter": 10,
         "event": "Made it to Rouen",
         "confidence": "high",
-        "order": 39,
+        "order": 38,
         "duplicate": 2
       }
     },
@@ -699,7 +682,7 @@ export const mapData = {
         "chapter": 10,
         "event": "Near River Seine",
         "confidence": "high",
-        "order": 40
+        "order": 39
       }
     },
     {
@@ -716,7 +699,7 @@ export const mapData = {
         "chapter": 10,
         "event": "Cycling route",
         "confidence": "high",
-        "order": 41
+        "order": 40
       }
     },
     {
@@ -733,7 +716,7 @@ export const mapData = {
         "chapter": 11,
         "event": "Found way back to Rouen",
         "confidence": "high",
-        "order": 42,
+        "order": 41,
         "duplicate": 3
       }
     },
@@ -751,7 +734,7 @@ export const mapData = {
         "chapter": 11,
         "event": "Took road to Caen",
         "confidence": "high",
-        "order": 43,
+        "order": 42,
         "duplicate": 1
       }
     },
@@ -769,7 +752,7 @@ export const mapData = {
         "chapter": 11,
         "event": "Reached Bayeux",
         "confidence": "high",
-        "order": 44
+        "order": 43
       }
     },
     {
@@ -786,8 +769,7 @@ export const mapData = {
         "chapter": 11,
         "event": "Approached Cherbourg",
         "confidence": "high",
-        "order": 45,
-        "duplicate": 2
+        "order": 44
       }
     },
     {
@@ -804,7 +786,7 @@ export const mapData = {
         "chapter": 11,
         "event": "Back to Caen",
         "confidence": "high",
-        "order": 46,
+        "order": 45,
         "duplicate": 2
       }
     },
@@ -822,7 +804,7 @@ export const mapData = {
         "chapter": 11,
         "event": "Passed through on foot",
         "confidence": "high",
-        "order": 47
+        "order": 46
       }
     },
     {
@@ -839,7 +821,7 @@ export const mapData = {
         "chapter": 11,
         "event": "Navigation decision point",
         "confidence": "high",
-        "order": 48
+        "order": 47
       }
     },
     {
@@ -856,7 +838,7 @@ export const mapData = {
         "chapter": 11,
         "event": "First town in Vichy France",
         "confidence": "high",
-        "order": 49
+        "order": 48
       }
     },
     {
@@ -873,7 +855,7 @@ export const mapData = {
         "chapter": 12,
         "event": "Passed through",
         "confidence": "high",
-        "order": 50
+        "order": 49
       }
     },
     {
@@ -890,7 +872,7 @@ export const mapData = {
         "chapter": 12,
         "event": "On route south",
         "confidence": "high",
-        "order": 51
+        "order": 50
       }
     },
     {
@@ -907,7 +889,7 @@ export const mapData = {
         "chapter": 12,
         "event": "On route south",
         "confidence": "high",
-        "order": 52
+        "order": 51
       }
     },
     {
@@ -924,7 +906,7 @@ export const mapData = {
         "chapter": 12,
         "event": "On route south",
         "confidence": "high",
-        "order": 53
+        "order": 52
       }
     },
     {
@@ -941,7 +923,7 @@ export const mapData = {
         "chapter": 12,
         "event": "On route south",
         "confidence": "high",
-        "order": 54
+        "order": 53
       }
     },
     {
@@ -958,7 +940,7 @@ export const mapData = {
         "chapter": 12,
         "event": "On route south",
         "confidence": "high",
-        "order": 55
+        "order": 54
       }
     },
     {
@@ -975,7 +957,7 @@ export const mapData = {
         "chapter": 12,
         "event": "On route south",
         "confidence": "high",
-        "order": 56
+        "order": 55
       }
     },
     {
@@ -992,7 +974,7 @@ export const mapData = {
         "chapter": 12,
         "event": "On route south",
         "confidence": "high",
-        "order": 57
+        "order": 56
       }
     },
     {
@@ -1009,7 +991,7 @@ export const mapData = {
         "chapter": 12,
         "event": "Reached River Rhône",
         "confidence": "high",
-        "order": 58
+        "order": 57
       }
     },
     {
@@ -1026,7 +1008,7 @@ export const mapData = {
         "chapter": 12,
         "event": "On route south",
         "confidence": "high",
-        "order": 59
+        "order": 58
       }
     },
     {
@@ -1043,7 +1025,7 @@ export const mapData = {
         "chapter": 12,
         "event": "On route south",
         "confidence": "high",
-        "order": 60
+        "order": 59
       }
     },
     {
@@ -1060,7 +1042,7 @@ export const mapData = {
         "chapter": 12,
         "event": "On route south",
         "confidence": "high",
-        "order": 61
+        "order": 60
       }
     },
     {
@@ -1077,7 +1059,7 @@ export const mapData = {
         "chapter": 12,
         "event": "Interned at Fort Saint-Jean",
         "confidence": "high",
-        "order": 62
+        "order": 61
       }
     },
     {
@@ -1094,7 +1076,7 @@ export const mapData = {
         "chapter": 16,
         "event": "On route to Perpignan",
         "confidence": "high",
-        "order": 63
+        "order": 62
       }
     },
     {
@@ -1111,7 +1093,7 @@ export const mapData = {
         "chapter": 16,
         "event": "Got a lift here",
         "confidence": "high",
-        "order": 64
+        "order": 63
       }
     },
     {
@@ -1128,7 +1110,7 @@ export const mapData = {
         "chapter": 16,
         "event": "On route to Perpignan",
         "confidence": "high",
-        "order": 65
+        "order": 64
       }
     },
     {
@@ -1145,7 +1127,7 @@ export const mapData = {
         "chapter": 16,
         "event": "On route to Perpignan",
         "confidence": "high",
-        "order": 66
+        "order": 65
       }
     },
     {
@@ -1162,7 +1144,7 @@ export const mapData = {
         "chapter": 16,
         "event": "On route to Perpignan",
         "confidence": "high",
-        "order": 67
+        "order": 66
       }
     },
     {
@@ -1179,7 +1161,7 @@ export const mapData = {
         "chapter": 16,
         "event": "Bypass route around Montpellier",
         "confidence": "high",
-        "order": 68
+        "order": 67
       }
     },
     {
@@ -1196,7 +1178,7 @@ export const mapData = {
         "chapter": 16,
         "event": "Bypass route around Montpellier",
         "confidence": "high",
-        "order": 69
+        "order": 68
       }
     },
     {
@@ -1213,7 +1195,7 @@ export const mapData = {
         "chapter": 16,
         "event": "Bypass route around Montpellier",
         "confidence": "high",
-        "order": 70
+        "order": 69
       }
     },
     {
@@ -1230,7 +1212,7 @@ export const mapData = {
         "chapter": 16,
         "event": "Tiny hamlet on route",
         "confidence": "medium",
-        "order": 71
+        "order": 70
       }
     },
     {
@@ -1247,7 +1229,7 @@ export const mapData = {
         "chapter": 16,
         "event": "On route to Perpignan",
         "confidence": "high",
-        "order": 72
+        "order": 71
       }
     },
     {
@@ -1264,7 +1246,7 @@ export const mapData = {
         "chapter": 16,
         "event": "On route to Perpignan",
         "confidence": "high",
-        "order": 73
+        "order": 72
       }
     },
     {
@@ -1281,7 +1263,7 @@ export const mapData = {
         "chapter": 16,
         "event": "On route to Perpignan",
         "confidence": "high",
-        "order": 74
+        "order": 73
       }
     },
     {
@@ -1298,7 +1280,7 @@ export const mapData = {
         "chapter": 16,
         "event": "On route to Perpignan",
         "confidence": "high",
-        "order": 75
+        "order": 74
       }
     },
     {
@@ -1315,7 +1297,7 @@ export const mapData = {
         "chapter": 16,
         "event": "On route to Perpignan",
         "confidence": "high",
-        "order": 76
+        "order": 75
       }
     },
     {
@@ -1332,7 +1314,7 @@ export const mapData = {
         "chapter": 16,
         "event": "Pre-border staging",
         "confidence": "high",
-        "order": 77
+        "order": 76
       }
     },
     {
@@ -1349,7 +1331,7 @@ export const mapData = {
         "chapter": 16,
         "event": "Headed west from Perpignan",
         "confidence": "high",
-        "order": 78
+        "order": 77
       }
     },
     {
@@ -1366,7 +1348,7 @@ export const mapData = {
         "chapter": 16,
         "event": "Pre-border route",
         "confidence": "high",
-        "order": 79
+        "order": 78
       }
     },
     {
@@ -1383,7 +1365,7 @@ export const mapData = {
         "chapter": 17,
         "event": "Pyrenees foothills",
         "confidence": "high",
-        "order": 80
+        "order": 79
       }
     },
     {
@@ -1400,7 +1382,7 @@ export const mapData = {
         "chapter": 17,
         "event": "Small hamlet in foothills",
         "confidence": "high",
-        "order": 81
+        "order": 80
       }
     },
     {
@@ -1417,7 +1399,7 @@ export const mapData = {
         "chapter": 17,
         "event": "Last village in France",
         "confidence": "high",
-        "order": 82
+        "order": 81
       }
     },
     {
@@ -1434,7 +1416,7 @@ export const mapData = {
         "chapter": 17,
         "event": "Pyrenees crossing",
         "confidence": "medium",
-        "order": 83
+        "order": 82
       }
     },
     {
@@ -1451,7 +1433,7 @@ export const mapData = {
         "chapter": 18,
         "event": "First village in Spain",
         "confidence": "high",
-        "order": 84
+        "order": 83
       }
     },
     {
@@ -1468,7 +1450,7 @@ export const mapData = {
         "chapter": 18,
         "event": "Spanish route",
         "confidence": "high",
-        "order": 85
+        "order": 84
       }
     },
     {
@@ -1485,7 +1467,7 @@ export const mapData = {
         "chapter": 18,
         "event": "Left around 10th October",
         "confidence": "high",
-        "order": 86
+        "order": 85
       }
     },
     {
@@ -1502,7 +1484,7 @@ export const mapData = {
         "chapter": 18,
         "event": "Spanish route",
         "confidence": "high",
-        "order": 87
+        "order": 86
       }
     },
     {
@@ -1519,7 +1501,7 @@ export const mapData = {
         "chapter": 18,
         "event": "Coastal route to Barcelona",
         "confidence": "high",
-        "order": 88
+        "order": 87
       }
     },
     {
@@ -1536,7 +1518,7 @@ export const mapData = {
         "chapter": 18,
         "event": "Coastal route",
         "confidence": "high",
-        "order": 89
+        "order": 88
       }
     },
     {
@@ -1553,7 +1535,7 @@ export const mapData = {
         "chapter": 18,
         "event": "Coastal route",
         "confidence": "high",
-        "order": 90
+        "order": 89
       }
     },
     {
@@ -1570,7 +1552,7 @@ export const mapData = {
         "chapter": 18,
         "event": "Coastal route",
         "confidence": "high",
-        "order": 91
+        "order": 90
       }
     },
     {
@@ -1587,7 +1569,7 @@ export const mapData = {
         "chapter": 18,
         "event": "Coastal route",
         "confidence": "high",
-        "order": 92
+        "order": 91
       }
     },
     {
@@ -1604,7 +1586,7 @@ export const mapData = {
         "chapter": 18,
         "event": "Coastal route",
         "confidence": "high",
-        "order": 93
+        "order": 92
       }
     },
     {
@@ -1621,7 +1603,7 @@ export const mapData = {
         "chapter": 18,
         "event": "Approach to Barcelona",
         "confidence": "high",
-        "order": 94
+        "order": 93
       }
     },
     {
@@ -1638,7 +1620,7 @@ export const mapData = {
         "chapter": 18,
         "event": "Approach to Barcelona",
         "confidence": "high",
-        "order": 95
+        "order": 94
       }
     },
     {
@@ -1655,7 +1637,7 @@ export const mapData = {
         "chapter": 18,
         "event": "Journey end",
         "confidence": "high",
-        "order": 96
+        "order": 95
       }
     }
   ]

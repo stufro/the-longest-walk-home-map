@@ -1,7 +1,7 @@
 import fs from "fs";
 
 const inputPath = "./data/data.geojson";
-const outputPath = "./public/mapData.js";
+const outputPath = "./mapData.js";
 
 const geojson = JSON.parse(fs.readFileSync(inputPath, "utf8"));
 
