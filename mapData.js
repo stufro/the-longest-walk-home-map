@@ -1,6 +1,6 @@
 
 // AUTO-GENERATED FILE
-// Generated 2026-02-09T14:23:16.347Z
+// Generated 2026-02-11T15:07:18.973Z
 
 export const mapData = {
   "type": "FeatureCollection",
@@ -785,7 +785,7 @@ export const mapData = {
       "properties": {
         "place": "Cherbourg",
         "chapter": 11,
-        "event": "Approached Cherbourg",
+        "event": "Approached Cherbourg - failed to find Andre's farm",
         "confidence": "high",
         "order": 45
       }
@@ -932,8 +932,8 @@ export const mapData = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.0642764,
-          45.4083768
+          4.0627318,
+          45.6072875
         ]
       },
       "properties": {
@@ -966,8 +966,8 @@ export const mapData = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.5539471,
-          45.0799168
+          4.5616181,
+          45.2973292
         ]
       },
       "properties": {
@@ -1085,8 +1085,8 @@ export const mapData = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.3714826,
-          43.4200904
+          5.3090324,
+          43.4098822
         ]
       },
       "properties": {
@@ -1170,8 +1170,8 @@ export const mapData = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.876716,
-          43.7402289
+          3.9687448,
+          43.6568263
         ]
       },
       "properties": {
@@ -1187,8 +1187,8 @@ export const mapData = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.8929826,
-          43.6836471
+          3.8868606,
+          43.6567216
         ]
       },
       "properties": {
@@ -1238,8 +1238,8 @@ export const mapData = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.6049787,
-          43.6782598
+          3.67542,
+          43.6262
         ]
       },
       "properties": {
@@ -1255,8 +1255,8 @@ export const mapData = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.5302291,
-          43.685855
+          3.52403,
+          43.5917
         ]
       },
       "properties": {
@@ -1272,8 +1272,8 @@ export const mapData = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.4316833,
-          43.6276866
+          3.4302412,
+          43.6263176
         ]
       },
       "properties": {
@@ -1340,8 +1340,8 @@ export const mapData = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.8267763,
-          42.7448721
+          2.8007536,
+          42.6624044
         ]
       },
       "properties": {
@@ -1357,8 +1357,8 @@ export const mapData = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.7833138,
-          42.6408639
+          2.8139027,
+          42.6272392
         ]
       },
       "properties": {
@@ -1374,8 +1374,8 @@ export const mapData = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.7564683,
-          42.5733994
+          2.7800389,
+          42.5829759
         ]
       },
       "properties": {
@@ -1391,8 +1391,8 @@ export const mapData = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.7386551,
-          42.5388548
+          2.7435468,
+          42.5496812
         ]
       },
       "properties": {
@@ -1408,8 +1408,8 @@ export const mapData = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.7132864,
-          42.4808677
+          2.7071575,
+          42.4758103
         ]
       },
       "properties": {
@@ -1442,8 +1442,8 @@ export const mapData = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.7610831,
-          42.3809785
+          2.7485579,
+          42.3861179
         ]
       },
       "properties": {
@@ -1459,8 +1459,8 @@ export const mapData = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.7938893,
-          42.3261595
+          2.9304359,
+          42.3148493
         ]
       },
       "properties": {
@@ -1493,8 +1493,8 @@ export const mapData = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.9676673,
-          42.2285806
+          2.9708293,
+          42.2165982
         ]
       },
       "properties": {
@@ -1544,12 +1544,12 @@ export const mapData = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.6581698,
-          41.6098763
+          2.7414054,
+          41.6459118
         ]
       },
       "properties": {
-        "place": "Calella",
+        "place": "Malgrat de Mar",
         "chapter": 18,
         "event": "Coastal route",
         "confidence": "high",
@@ -1561,12 +1561,12 @@ export const mapData = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.7414054,
-          41.6459118
+          2.6576102,
+          41.6132925
         ]
       },
       "properties": {
-        "place": "Malgrat de Mar",
+        "place": "Calella",
         "chapter": 18,
         "event": "Coastal route",
         "confidence": "high",
