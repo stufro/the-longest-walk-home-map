@@ -182,8 +182,23 @@
       "properties": {
         "place": "Béthune",
         "chapter": 7,
-        "event": "Column swap / escape route",
+        "event": "Column swap",
         "duplicate": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.85813,
+          50.4953
+        ]
+      },
+      "properties": {
+        "place": "Wingles",
+        "chapter": 7,
+        "event": "Escape from PoW column by diving into a hedgerow"
       }
     },
     {
@@ -987,7 +1002,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.8095059,
+          4.8095058999999996,
           43.6450515
         ]
       },

@@ -1,6 +1,6 @@
 
 // AUTO-GENERATED FILE
-// Generated 2026-03-03T16:49:27.438Z
+// Generated 2026-03-03T16:54:54.669Z
 
 export const mapData = {
   "type": "FeatureCollection",
@@ -186,8 +186,23 @@ export const mapData = {
       "properties": {
         "place": "Béthune",
         "chapter": 7,
-        "event": "Column swap / escape route",
+        "event": "Column swap",
         "duplicate": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.85813,
+          50.4953
+        ]
+      },
+      "properties": {
+        "place": "Wingles",
+        "chapter": 7,
+        "event": "Escape from PoW column by diving into a hedgerow"
       }
     },
     {
