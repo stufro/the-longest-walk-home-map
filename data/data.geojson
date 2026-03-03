@@ -14,7 +14,6 @@
         "place": "Saint-Valery-en-Caux",
         "chapter": 5,
         "event": "Allied surrender, 22 June 1940",
-        "confidence": "high",
         "order": 1
       }
     },
@@ -31,7 +30,6 @@
         "place": "Yvetot",
         "chapter": 6,
         "event": "Signpost observed",
-        "confidence": "low",
         "notes": "Timeline unclear in text",
         "order": 2
       }
@@ -49,7 +47,6 @@
         "place": "Rouen",
         "chapter": 6,
         "event": "Rouen Cathedral seen",
-        "confidence": "medium",
         "order": 3,
         "duplicate": 1
       }
@@ -67,7 +64,6 @@
         "place": "Buchy",
         "chapter": 6,
         "event": "PoW march",
-        "confidence": "high",
         "order": 4
       }
     },
@@ -84,7 +80,6 @@
         "place": "Forges-les-Eaux",
         "chapter": 6,
         "event": "PoW march",
-        "confidence": "high",
         "order": 5,
         "duplicate": 1
       }
@@ -102,7 +97,6 @@
         "place": "Gaillefontaine",
         "chapter": 6,
         "event": "PoW march",
-        "confidence": "high",
         "order": 6
       }
     },
@@ -119,7 +113,6 @@
         "place": "Abancourt",
         "chapter": 6,
         "event": "PoW march start",
-        "confidence": "high",
         "order": 7,
         "duplicate": 1
       }
@@ -137,7 +130,6 @@
         "place": "Airaines",
         "chapter": 6,
         "event": "PoW march",
-        "confidence": "high",
         "order": 8
       }
     },
@@ -154,7 +146,6 @@
         "place": "Doullens",
         "chapter": 6,
         "event": "Citadel / PoW camp",
-        "confidence": "high",
         "order": 9
       }
     },
@@ -171,7 +162,6 @@
         "place": "Frévent",
         "chapter": 7,
         "event": "March stop",
-        "confidence": "medium",
         "order": 10
       }
     },
@@ -188,7 +178,6 @@
         "place": "Saint-Pol-sur-Ternoise",
         "chapter": 7,
         "event": "PoW march",
-        "confidence": "high",
         "order": 11
       }
     },
@@ -205,7 +194,6 @@
         "place": "Béthune",
         "chapter": 7,
         "event": "Column swap / escape route",
-        "confidence": "high",
         "order": 12,
         "duplicate": 1
       }
@@ -223,7 +211,6 @@
         "place": "Acheville",
         "chapter": 8,
         "event": "Benoit family safe house",
-        "confidence": "high",
         "order": 13,
         "duplicate": 1
       }
@@ -241,7 +228,6 @@
         "place": "Lens",
         "chapter": 9,
         "event": "Cycling route",
-        "confidence": "high",
         "order": 14
       }
     },
@@ -258,7 +244,6 @@
         "place": "Béthune",
         "chapter": 9,
         "event": "Accompanied by Monsieur Benoit this far",
-        "confidence": "high",
         "order": 15,
         "duplicate": 2
       }
@@ -276,7 +261,6 @@
         "place": "Lillers",
         "chapter": 9,
         "event": "Cycling route",
-        "confidence": "high",
         "order": 16,
         "duplicate": 1
       }
@@ -294,7 +278,6 @@
         "place": "Norrent-Fontes",
         "chapter": 9,
         "event": "Cycling route",
-        "confidence": "high",
         "order": 17,
         "duplicate": 1
       }
@@ -312,7 +295,6 @@
         "place": "Saint-Omer",
         "chapter": 9,
         "event": "Cycling route",
-        "confidence": "high",
         "order": 18,
         "duplicate": 1
       }
@@ -330,7 +312,6 @@
         "place": "Les Attaques",
         "chapter": 9,
         "event": "Approach to Calais",
-        "confidence": "high",
         "order": 19
       }
     },
@@ -347,7 +328,6 @@
         "place": "Calais",
         "chapter": 9,
         "event": "Failed evacuation",
-        "confidence": "high",
         "order": 20
       }
     },
@@ -364,7 +344,6 @@
         "place": "Marck",
         "chapter": 9,
         "event": "Failed approach to Dunkirk",
-        "confidence": "high",
         "order": 21
       }
     },
@@ -381,7 +360,6 @@
         "place": "Guines",
         "chapter": 9,
         "event": "Return route",
-        "confidence": "high",
         "order": 22
       }
     },
@@ -398,7 +376,6 @@
         "place": "Ardres",
         "chapter": 9,
         "event": "Return route",
-        "confidence": "high",
         "order": 23
       }
     },
@@ -415,7 +392,6 @@
         "place": "Saint-Omer",
         "chapter": 9,
         "event": "Return via Saint-Omer",
-        "confidence": "high",
         "order": 24,
         "duplicate": 2
       }
@@ -433,7 +409,6 @@
         "place": "Norrent-Fontes",
         "chapter": 9,
         "event": "Return route",
-        "confidence": "high",
         "order": 25,
         "duplicate": 2
       }
@@ -451,7 +426,6 @@
         "place": "Lillers",
         "chapter": 9,
         "event": "Return route",
-        "confidence": "high",
         "order": 26,
         "duplicate": 2
       }
@@ -469,7 +443,6 @@
         "place": "Béthune",
         "chapter": 9,
         "event": "Return to Béthune",
-        "confidence": "high",
         "order": 27,
         "duplicate": 3
       }
@@ -487,7 +460,6 @@
         "place": "Nœux-les-Mines",
         "chapter": 9,
         "event": "Bicycle crash, walked back to Benoit family",
-        "confidence": "high",
         "order": 28
       }
     },
@@ -504,7 +476,6 @@
         "place": "Acheville",
         "chapter": 9,
         "event": "Return to Benoit family",
-        "confidence": "high",
         "order": 29,
         "duplicate": 2
       }
@@ -522,7 +493,6 @@
         "place": "Vimy",
         "chapter": 10,
         "event": "Joined main road",
-        "confidence": "high",
         "order": 30
       }
     },
@@ -539,7 +509,6 @@
         "place": "Arras",
         "chapter": 10,
         "event": "Transit town",
-        "confidence": "high",
         "order": 31
       }
     },
@@ -556,7 +525,6 @@
         "place": "Bapaume",
         "chapter": 10,
         "event": "Main road",
-        "confidence": "high",
         "order": 32
       }
     },
@@ -573,7 +541,6 @@
         "place": "Albert",
         "chapter": 10,
         "event": "Main road",
-        "confidence": "high",
         "order": 33
       }
     },
@@ -590,7 +557,6 @@
         "place": "Contay",
         "chapter": 10,
         "event": "Secondary road",
-        "confidence": "high",
         "order": 34
       }
     },
@@ -607,7 +573,6 @@
         "place": "Puisieux",
         "chapter": 10,
         "event": "Secondary road",
-        "confidence": "high",
         "order": 35
       }
     },
@@ -624,7 +589,6 @@
         "place": "Amiens",
         "chapter": 10,
         "event": "Saw bombed city",
-        "confidence": "high",
         "order": 36
       }
     },
@@ -641,7 +605,6 @@
         "place": "Abancourt",
         "chapter": 10,
         "event": "Spent night in hedge",
-        "confidence": "high",
         "order": 37,
         "duplicate": 2
       }
@@ -659,7 +622,6 @@
         "place": "Forges-les-Eaux",
         "chapter": 10,
         "event": "Puncture, stole another bike",
-        "confidence": "high",
         "order": 38,
         "duplicate": 2
       }
@@ -677,7 +639,6 @@
         "place": "Rouen",
         "chapter": 10,
         "event": "Made it to Rouen",
-        "confidence": "high",
         "order": 39,
         "duplicate": 2
       }
@@ -695,7 +656,6 @@
         "place": "Elbeuf",
         "chapter": 10,
         "event": "Near River Seine",
-        "confidence": "high",
         "order": 40
       }
     },
@@ -712,7 +672,6 @@
         "place": "Évreux",
         "chapter": 10,
         "event": "Cycling route",
-        "confidence": "high",
         "order": 41
       }
     },
@@ -729,7 +688,6 @@
         "place": "Rouen",
         "chapter": 11,
         "event": "Found way back to Rouen",
-        "confidence": "high",
         "order": 42,
         "duplicate": 3
       }
@@ -747,7 +705,6 @@
         "place": "Caen",
         "chapter": 11,
         "event": "Took road to Caen",
-        "confidence": "high",
         "order": 43,
         "duplicate": 1
       }
@@ -765,7 +722,6 @@
         "place": "Bayeux",
         "chapter": 11,
         "event": "Reached Bayeux",
-        "confidence": "high",
         "order": 44
       }
     },
@@ -782,7 +738,6 @@
         "place": "Cherbourg",
         "chapter": 11,
         "event": "Approached Cherbourg - failed to find Andre's farm",
-        "confidence": "high",
         "order": 45
       }
     },
@@ -799,7 +754,6 @@
         "place": "Caen",
         "chapter": 11,
         "event": "Back to Caen",
-        "confidence": "high",
         "order": 46,
         "duplicate": 2
       }
@@ -817,7 +771,6 @@
         "place": "Le Mans",
         "chapter": 11,
         "event": "Passed through on foot",
-        "confidence": "high",
         "order": 47
       }
     },
@@ -834,7 +787,6 @@
         "place": "Tours",
         "chapter": 11,
         "event": "Navigation decision point",
-        "confidence": "high",
         "order": 48
       }
     },
@@ -851,7 +803,6 @@
         "place": "Loches",
         "chapter": 11,
         "event": "First town in Vichy France",
-        "confidence": "high",
         "order": 49
       }
     },
@@ -868,7 +819,6 @@
         "place": "Châteauroux",
         "chapter": 12,
         "event": "Passed through",
-        "confidence": "high",
         "order": 50
       }
     },
@@ -885,7 +835,6 @@
         "place": "Aubusson",
         "chapter": 12,
         "event": "On route south",
-        "confidence": "high",
         "order": 51
       }
     },
@@ -902,7 +851,6 @@
         "place": "Clermont-Ferrand",
         "chapter": 12,
         "event": "On route south",
-        "confidence": "high",
         "order": 52
       }
     },
@@ -919,7 +867,6 @@
         "place": "Ambert",
         "chapter": 12,
         "event": "On route south",
-        "confidence": "high",
         "order": 53
       }
     },
@@ -936,7 +883,6 @@
         "place": "Montbrison",
         "chapter": 12,
         "event": "On route south",
-        "confidence": "high",
         "order": 54
       }
     },
@@ -953,7 +899,6 @@
         "place": "Saint-Étienne",
         "chapter": 12,
         "event": "On route south",
-        "confidence": "high",
         "order": 55
       }
     },
@@ -970,7 +915,6 @@
         "place": "Bourg-Argental",
         "chapter": 12,
         "event": "On route south",
-        "confidence": "high",
         "order": 56
       }
     },
@@ -987,7 +931,6 @@
         "place": "Annonay",
         "chapter": 12,
         "event": "On route south",
-        "confidence": "high",
         "order": 57
       }
     },
@@ -1004,7 +947,6 @@
         "place": "Andance",
         "chapter": 12,
         "event": "Reached River Rhône",
-        "confidence": "high",
         "order": 58
       }
     },
@@ -1021,7 +963,6 @@
         "place": "Tournon-sur-Rhône",
         "chapter": 12,
         "event": "On route south",
-        "confidence": "high",
         "order": 59
       }
     },
@@ -1038,7 +979,6 @@
         "place": "Bagnols-sur-Cèze",
         "chapter": 12,
         "event": "On route south",
-        "confidence": "high",
         "order": 60
       }
     },
@@ -1055,7 +995,6 @@
         "place": "Avignon",
         "chapter": 12,
         "event": "On route south",
-        "confidence": "high",
         "order": 61
       }
     },
@@ -1072,7 +1011,6 @@
         "place": "Marseille",
         "chapter": 12,
         "event": "Interned at Fort Saint-Jean",
-        "confidence": "high",
         "order": 62
       }
     },
@@ -1089,7 +1027,6 @@
         "place": "Les Pennes-Mirabeau",
         "chapter": 16,
         "event": "On route to Perpignan",
-        "confidence": "high",
         "order": 63
       }
     },
@@ -1106,7 +1043,6 @@
         "place": "Salon-de-Provence",
         "chapter": 16,
         "event": "Got a lift here",
-        "confidence": "high",
         "order": 64
       }
     },
@@ -1123,7 +1059,6 @@
         "place": "Saint-Martin-de-Crau",
         "chapter": 16,
         "event": "On route to Perpignan",
-        "confidence": "high",
         "order": 65
       }
     },
@@ -1140,7 +1075,6 @@
         "place": "Arles",
         "chapter": 16,
         "event": "On route to Perpignan",
-        "confidence": "high",
         "order": 66
       }
     },
@@ -1157,7 +1091,6 @@
         "place": "Saint-Gilles",
         "chapter": 16,
         "event": "On route to Perpignan",
-        "confidence": "high",
         "order": 67
       }
     },
@@ -1174,7 +1107,6 @@
         "place": "Vendargues",
         "chapter": 16,
         "event": "Bypass route around Montpellier",
-        "confidence": "high",
         "order": 68
       }
     },
@@ -1191,7 +1123,6 @@
         "place": "Clapiers",
         "chapter": 16,
         "event": "Bypass route around Montpellier",
-        "confidence": "high",
         "order": 69
       }
     },
@@ -1208,7 +1139,6 @@
         "place": "Montferrier-sur-Lez",
         "chapter": 16,
         "event": "Bypass route around Montpellier",
-        "confidence": "high",
         "order": 70
       }
     },
@@ -1225,7 +1155,6 @@
         "place": "Bel-Air",
         "chapter": 16,
         "event": "Tiny hamlet on route",
-        "confidence": "medium",
         "order": 71
       }
     },
@@ -1242,7 +1171,6 @@
         "place": "Saint-Paul-et-Valmalle",
         "chapter": 16,
         "event": "On route to Perpignan",
-        "confidence": "high",
         "order": 72
       }
     },
@@ -1259,7 +1187,6 @@
         "place": "Le Pouget",
         "chapter": 16,
         "event": "On route to Perpignan",
-        "confidence": "high",
         "order": 73
       }
     },
@@ -1276,7 +1203,6 @@
         "place": "Clermont-l'Hérault",
         "chapter": 16,
         "event": "On route to Perpignan",
-        "confidence": "high",
         "order": 74
       }
     },
@@ -1293,7 +1219,6 @@
         "place": "Pézenas",
         "chapter": 16,
         "event": "On route to Perpignan",
-        "confidence": "high",
         "order": 75
       }
     },
@@ -1310,7 +1235,6 @@
         "place": "Béziers",
         "chapter": 16,
         "event": "On route to Perpignan",
-        "confidence": "high",
         "order": 76
       }
     },
@@ -1327,7 +1251,6 @@
         "place": "Perpignan",
         "chapter": 16,
         "event": "Pre-border staging",
-        "confidence": "high",
         "order": 77
       }
     },
@@ -1344,7 +1267,6 @@
         "place": "Le Soler",
         "chapter": 16,
         "event": "Headed west from Perpignan",
-        "confidence": "high",
         "order": 78
       }
     },
@@ -1361,7 +1283,6 @@
         "place": "Ponteilla",
         "chapter": 16,
         "event": "Pre-border route",
-        "confidence": "high",
         "order": 79
       }
     },
@@ -1378,7 +1299,6 @@
         "place": "Fourques",
         "chapter": 17,
         "event": "Pyrenees foothills",
-        "confidence": "high",
         "order": 80
       }
     },
@@ -1395,7 +1315,6 @@
         "place": "Llauro",
         "chapter": 17,
         "event": "Small hamlet in foothills",
-        "confidence": "high",
         "order": 81
       }
     },
@@ -1412,7 +1331,6 @@
         "place": "Reynés",
         "chapter": 17,
         "event": "Last village in France",
-        "confidence": "high",
         "order": 82
       }
     },
@@ -1429,7 +1347,6 @@
         "place": "Roc de France",
         "chapter": 17,
         "event": "Pyrenees crossing",
-        "confidence": "medium",
         "order": 83
       }
     },
@@ -1446,7 +1363,6 @@
         "place": "Maçanet de Cabrenys",
         "chapter": 18,
         "event": "First village in Spain",
-        "confidence": "high",
         "order": 84
       }
     },
@@ -1463,7 +1379,6 @@
         "place": "Pont de Molins",
         "chapter": 18,
         "event": "Spanish route",
-        "confidence": "high",
         "order": 85
       }
     },
@@ -1480,7 +1395,6 @@
         "place": "Figueres",
         "chapter": 18,
         "event": "Left around 10th October",
-        "confidence": "high",
         "order": 86
       }
     },
@@ -1497,7 +1411,6 @@
         "place": "Vilamalla",
         "chapter": 18,
         "event": "Spanish route",
-        "confidence": "high",
         "order": 87
       }
     },
@@ -1514,7 +1427,6 @@
         "place": "Sant Feliu de Guíxols",
         "chapter": 18,
         "event": "Coastal route to Barcelona",
-        "confidence": "high",
         "order": 88
       }
     },
@@ -1531,7 +1443,6 @@
         "place": "Tossa de Mar",
         "chapter": 18,
         "event": "Coastal route",
-        "confidence": "high",
         "order": 89
       }
     },
@@ -1548,7 +1459,6 @@
         "place": "Malgrat de Mar",
         "chapter": 18,
         "event": "Coastal route",
-        "confidence": "high",
         "order": 90
       }
     },
@@ -1565,7 +1475,6 @@
         "place": "Calella",
         "chapter": 18,
         "event": "Coastal route",
-        "confidence": "high",
         "order": 91
       }
     },
@@ -1582,7 +1491,6 @@
         "place": "Arenys de Mar",
         "chapter": 18,
         "event": "Coastal route",
-        "confidence": "high",
         "order": 92
       }
     },
@@ -1599,7 +1507,6 @@
         "place": "Mataró",
         "chapter": 18,
         "event": "Coastal route",
-        "confidence": "high",
         "order": 93
       }
     },
@@ -1616,7 +1523,6 @@
         "place": "Badalona",
         "chapter": 18,
         "event": "Approach to Barcelona",
-        "confidence": "high",
         "order": 94
       }
     },
@@ -1633,7 +1539,6 @@
         "place": "Sant Martí",
         "chapter": 18,
         "event": "Approach to Barcelona",
-        "confidence": "high",
         "order": 95
       }
     },
@@ -1650,7 +1555,6 @@
         "place": "Barcelona",
         "chapter": 18,
         "event": "Journey end",
-        "confidence": "high",
         "order": 96
       }
     }

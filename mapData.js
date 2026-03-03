@@ -1,6 +1,6 @@
 
 // AUTO-GENERATED FILE
-// Generated 2026-02-11T15:07:18.973Z
+// Generated 2026-03-03T16:40:23.655Z
 
 export const mapData = {
   "type": "FeatureCollection",
@@ -18,7 +18,6 @@ export const mapData = {
         "place": "Saint-Valery-en-Caux",
         "chapter": 5,
         "event": "Allied surrender, 22 June 1940",
-        "confidence": "high",
         "order": 1
       }
     },
@@ -35,7 +34,6 @@ export const mapData = {
         "place": "Yvetot",
         "chapter": 6,
         "event": "Signpost observed",
-        "confidence": "low",
         "notes": "Timeline unclear in text",
         "order": 2
       }
@@ -53,7 +51,6 @@ export const mapData = {
         "place": "Rouen",
         "chapter": 6,
         "event": "Rouen Cathedral seen",
-        "confidence": "medium",
         "order": 3,
         "duplicate": 1
       }
@@ -71,7 +68,6 @@ export const mapData = {
         "place": "Buchy",
         "chapter": 6,
         "event": "PoW march",
-        "confidence": "high",
         "order": 4
       }
     },
@@ -88,7 +84,6 @@ export const mapData = {
         "place": "Forges-les-Eaux",
         "chapter": 6,
         "event": "PoW march",
-        "confidence": "high",
         "order": 5,
         "duplicate": 1
       }
@@ -106,7 +101,6 @@ export const mapData = {
         "place": "Gaillefontaine",
         "chapter": 6,
         "event": "PoW march",
-        "confidence": "high",
         "order": 6
       }
     },
@@ -123,7 +117,6 @@ export const mapData = {
         "place": "Abancourt",
         "chapter": 6,
         "event": "PoW march start",
-        "confidence": "high",
         "order": 7,
         "duplicate": 1
       }
@@ -141,7 +134,6 @@ export const mapData = {
         "place": "Airaines",
         "chapter": 6,
         "event": "PoW march",
-        "confidence": "high",
         "order": 8
       }
     },
@@ -158,7 +150,6 @@ export const mapData = {
         "place": "Doullens",
         "chapter": 6,
         "event": "Citadel / PoW camp",
-        "confidence": "high",
         "order": 9
       }
     },
@@ -175,7 +166,6 @@ export const mapData = {
         "place": "Frévent",
         "chapter": 7,
         "event": "March stop",
-        "confidence": "medium",
         "order": 10
       }
     },
@@ -192,7 +182,6 @@ export const mapData = {
         "place": "Saint-Pol-sur-Ternoise",
         "chapter": 7,
         "event": "PoW march",
-        "confidence": "high",
         "order": 11
       }
     },
@@ -209,7 +198,6 @@ export const mapData = {
         "place": "Béthune",
         "chapter": 7,
         "event": "Column swap / escape route",
-        "confidence": "high",
         "order": 12,
         "duplicate": 1
       }
@@ -227,7 +215,6 @@ export const mapData = {
         "place": "Acheville",
         "chapter": 8,
         "event": "Benoit family safe house",
-        "confidence": "high",
         "order": 13,
         "duplicate": 1
       }
@@ -245,7 +232,6 @@ export const mapData = {
         "place": "Lens",
         "chapter": 9,
         "event": "Cycling route",
-        "confidence": "high",
         "order": 14
       }
     },
@@ -262,7 +248,6 @@ export const mapData = {
         "place": "Béthune",
         "chapter": 9,
         "event": "Accompanied by Monsieur Benoit this far",
-        "confidence": "high",
         "order": 15,
         "duplicate": 2
       }
@@ -280,7 +265,6 @@ export const mapData = {
         "place": "Lillers",
         "chapter": 9,
         "event": "Cycling route",
-        "confidence": "high",
         "order": 16,
         "duplicate": 1
       }
@@ -298,7 +282,6 @@ export const mapData = {
         "place": "Norrent-Fontes",
         "chapter": 9,
         "event": "Cycling route",
-        "confidence": "high",
         "order": 17,
         "duplicate": 1
       }
@@ -316,7 +299,6 @@ export const mapData = {
         "place": "Saint-Omer",
         "chapter": 9,
         "event": "Cycling route",
-        "confidence": "high",
         "order": 18,
         "duplicate": 1
       }
@@ -334,7 +316,6 @@ export const mapData = {
         "place": "Les Attaques",
         "chapter": 9,
         "event": "Approach to Calais",
-        "confidence": "high",
         "order": 19
       }
     },
@@ -351,7 +332,6 @@ export const mapData = {
         "place": "Calais",
         "chapter": 9,
         "event": "Failed evacuation",
-        "confidence": "high",
         "order": 20
       }
     },
@@ -368,7 +348,6 @@ export const mapData = {
         "place": "Marck",
         "chapter": 9,
         "event": "Failed approach to Dunkirk",
-        "confidence": "high",
         "order": 21
       }
     },
@@ -385,7 +364,6 @@ export const mapData = {
         "place": "Guines",
         "chapter": 9,
         "event": "Return route",
-        "confidence": "high",
         "order": 22
       }
     },
@@ -402,7 +380,6 @@ export const mapData = {
         "place": "Ardres",
         "chapter": 9,
         "event": "Return route",
-        "confidence": "high",
         "order": 23
       }
     },
@@ -419,7 +396,6 @@ export const mapData = {
         "place": "Saint-Omer",
         "chapter": 9,
         "event": "Return via Saint-Omer",
-        "confidence": "high",
         "order": 24,
         "duplicate": 2
       }
@@ -437,7 +413,6 @@ export const mapData = {
         "place": "Norrent-Fontes",
         "chapter": 9,
         "event": "Return route",
-        "confidence": "high",
         "order": 25,
         "duplicate": 2
       }
@@ -455,7 +430,6 @@ export const mapData = {
         "place": "Lillers",
         "chapter": 9,
         "event": "Return route",
-        "confidence": "high",
         "order": 26,
         "duplicate": 2
       }
@@ -473,7 +447,6 @@ export const mapData = {
         "place": "Béthune",
         "chapter": 9,
         "event": "Return to Béthune",
-        "confidence": "high",
         "order": 27,
         "duplicate": 3
       }
@@ -491,7 +464,6 @@ export const mapData = {
         "place": "Nœux-les-Mines",
         "chapter": 9,
         "event": "Bicycle crash, walked back to Benoit family",
-        "confidence": "high",
         "order": 28
       }
     },
@@ -508,7 +480,6 @@ export const mapData = {
         "place": "Acheville",
         "chapter": 9,
         "event": "Return to Benoit family",
-        "confidence": "high",
         "order": 29,
         "duplicate": 2
       }
@@ -526,7 +497,6 @@ export const mapData = {
         "place": "Vimy",
         "chapter": 10,
         "event": "Joined main road",
-        "confidence": "high",
         "order": 30
       }
     },
@@ -543,7 +513,6 @@ export const mapData = {
         "place": "Arras",
         "chapter": 10,
         "event": "Transit town",
-        "confidence": "high",
         "order": 31
       }
     },
@@ -560,7 +529,6 @@ export const mapData = {
         "place": "Bapaume",
         "chapter": 10,
         "event": "Main road",
-        "confidence": "high",
         "order": 32
       }
     },
@@ -577,7 +545,6 @@ export const mapData = {
         "place": "Albert",
         "chapter": 10,
         "event": "Main road",
-        "confidence": "high",
         "order": 33
       }
     },
@@ -594,7 +561,6 @@ export const mapData = {
         "place": "Contay",
         "chapter": 10,
         "event": "Secondary road",
-        "confidence": "high",
         "order": 34
       }
     },
@@ -611,7 +577,6 @@ export const mapData = {
         "place": "Puisieux",
         "chapter": 10,
         "event": "Secondary road",
-        "confidence": "high",
         "order": 35
       }
     },
@@ -628,7 +593,6 @@ export const mapData = {
         "place": "Amiens",
         "chapter": 10,
         "event": "Saw bombed city",
-        "confidence": "high",
         "order": 36
       }
     },
@@ -645,7 +609,6 @@ export const mapData = {
         "place": "Abancourt",
         "chapter": 10,
         "event": "Spent night in hedge",
-        "confidence": "high",
         "order": 37,
         "duplicate": 2
       }
@@ -663,7 +626,6 @@ export const mapData = {
         "place": "Forges-les-Eaux",
         "chapter": 10,
         "event": "Puncture, stole another bike",
-        "confidence": "high",
         "order": 38,
         "duplicate": 2
       }
@@ -681,7 +643,6 @@ export const mapData = {
         "place": "Rouen",
         "chapter": 10,
         "event": "Made it to Rouen",
-        "confidence": "high",
         "order": 39,
         "duplicate": 2
       }
@@ -699,7 +660,6 @@ export const mapData = {
         "place": "Elbeuf",
         "chapter": 10,
         "event": "Near River Seine",
-        "confidence": "high",
         "order": 40
       }
     },
@@ -716,7 +676,6 @@ export const mapData = {
         "place": "Évreux",
         "chapter": 10,
         "event": "Cycling route",
-        "confidence": "high",
         "order": 41
       }
     },
@@ -733,7 +692,6 @@ export const mapData = {
         "place": "Rouen",
         "chapter": 11,
         "event": "Found way back to Rouen",
-        "confidence": "high",
         "order": 42,
         "duplicate": 3
       }
@@ -751,7 +709,6 @@ export const mapData = {
         "place": "Caen",
         "chapter": 11,
         "event": "Took road to Caen",
-        "confidence": "high",
         "order": 43,
         "duplicate": 1
       }
@@ -769,7 +726,6 @@ export const mapData = {
         "place": "Bayeux",
         "chapter": 11,
         "event": "Reached Bayeux",
-        "confidence": "high",
         "order": 44
       }
     },
@@ -786,7 +742,6 @@ export const mapData = {
         "place": "Cherbourg",
         "chapter": 11,
         "event": "Approached Cherbourg - failed to find Andre's farm",
-        "confidence": "high",
         "order": 45
       }
     },
@@ -803,7 +758,6 @@ export const mapData = {
         "place": "Caen",
         "chapter": 11,
         "event": "Back to Caen",
-        "confidence": "high",
         "order": 46,
         "duplicate": 2
       }
@@ -821,7 +775,6 @@ export const mapData = {
         "place": "Le Mans",
         "chapter": 11,
         "event": "Passed through on foot",
-        "confidence": "high",
         "order": 47
       }
     },
@@ -838,7 +791,6 @@ export const mapData = {
         "place": "Tours",
         "chapter": 11,
         "event": "Navigation decision point",
-        "confidence": "high",
         "order": 48
       }
     },
@@ -855,7 +807,6 @@ export const mapData = {
         "place": "Loches",
         "chapter": 11,
         "event": "First town in Vichy France",
-        "confidence": "high",
         "order": 49
       }
     },
@@ -872,7 +823,6 @@ export const mapData = {
         "place": "Châteauroux",
         "chapter": 12,
         "event": "Passed through",
-        "confidence": "high",
         "order": 50
       }
     },
@@ -889,7 +839,6 @@ export const mapData = {
         "place": "Aubusson",
         "chapter": 12,
         "event": "On route south",
-        "confidence": "high",
         "order": 51
       }
     },
@@ -906,7 +855,6 @@ export const mapData = {
         "place": "Clermont-Ferrand",
         "chapter": 12,
         "event": "On route south",
-        "confidence": "high",
         "order": 52
       }
     },
@@ -923,7 +871,6 @@ export const mapData = {
         "place": "Ambert",
         "chapter": 12,
         "event": "On route south",
-        "confidence": "high",
         "order": 53
       }
     },
@@ -940,7 +887,6 @@ export const mapData = {
         "place": "Montbrison",
         "chapter": 12,
         "event": "On route south",
-        "confidence": "high",
         "order": 54
       }
     },
@@ -957,7 +903,6 @@ export const mapData = {
         "place": "Saint-Étienne",
         "chapter": 12,
         "event": "On route south",
-        "confidence": "high",
         "order": 55
       }
     },
@@ -974,7 +919,6 @@ export const mapData = {
         "place": "Bourg-Argental",
         "chapter": 12,
         "event": "On route south",
-        "confidence": "high",
         "order": 56
       }
     },
@@ -991,7 +935,6 @@ export const mapData = {
         "place": "Annonay",
         "chapter": 12,
         "event": "On route south",
-        "confidence": "high",
         "order": 57
       }
     },
@@ -1008,7 +951,6 @@ export const mapData = {
         "place": "Andance",
         "chapter": 12,
         "event": "Reached River Rhône",
-        "confidence": "high",
         "order": 58
       }
     },
@@ -1025,7 +967,6 @@ export const mapData = {
         "place": "Tournon-sur-Rhône",
         "chapter": 12,
         "event": "On route south",
-        "confidence": "high",
         "order": 59
       }
     },
@@ -1042,7 +983,6 @@ export const mapData = {
         "place": "Bagnols-sur-Cèze",
         "chapter": 12,
         "event": "On route south",
-        "confidence": "high",
         "order": 60
       }
     },
@@ -1059,7 +999,6 @@ export const mapData = {
         "place": "Avignon",
         "chapter": 12,
         "event": "On route south",
-        "confidence": "high",
         "order": 61
       }
     },
@@ -1076,7 +1015,6 @@ export const mapData = {
         "place": "Marseille",
         "chapter": 12,
         "event": "Interned at Fort Saint-Jean",
-        "confidence": "high",
         "order": 62
       }
     },
@@ -1093,7 +1031,6 @@ export const mapData = {
         "place": "Les Pennes-Mirabeau",
         "chapter": 16,
         "event": "On route to Perpignan",
-        "confidence": "high",
         "order": 63
       }
     },
@@ -1110,7 +1047,6 @@ export const mapData = {
         "place": "Salon-de-Provence",
         "chapter": 16,
         "event": "Got a lift here",
-        "confidence": "high",
         "order": 64
       }
     },
@@ -1127,7 +1063,6 @@ export const mapData = {
         "place": "Saint-Martin-de-Crau",
         "chapter": 16,
         "event": "On route to Perpignan",
-        "confidence": "high",
         "order": 65
       }
     },
@@ -1144,7 +1079,6 @@ export const mapData = {
         "place": "Arles",
         "chapter": 16,
         "event": "On route to Perpignan",
-        "confidence": "high",
         "order": 66
       }
     },
@@ -1161,7 +1095,6 @@ export const mapData = {
         "place": "Saint-Gilles",
         "chapter": 16,
         "event": "On route to Perpignan",
-        "confidence": "high",
         "order": 67
       }
     },
@@ -1178,7 +1111,6 @@ export const mapData = {
         "place": "Vendargues",
         "chapter": 16,
         "event": "Bypass route around Montpellier",
-        "confidence": "high",
         "order": 68
       }
     },
@@ -1195,7 +1127,6 @@ export const mapData = {
         "place": "Clapiers",
         "chapter": 16,
         "event": "Bypass route around Montpellier",
-        "confidence": "high",
         "order": 69
       }
     },
@@ -1212,7 +1143,6 @@ export const mapData = {
         "place": "Montferrier-sur-Lez",
         "chapter": 16,
         "event": "Bypass route around Montpellier",
-        "confidence": "high",
         "order": 70
       }
     },
@@ -1229,7 +1159,6 @@ export const mapData = {
         "place": "Bel-Air",
         "chapter": 16,
         "event": "Tiny hamlet on route",
-        "confidence": "medium",
         "order": 71
       }
     },
@@ -1246,7 +1175,6 @@ export const mapData = {
         "place": "Saint-Paul-et-Valmalle",
         "chapter": 16,
         "event": "On route to Perpignan",
-        "confidence": "high",
         "order": 72
       }
     },
@@ -1263,7 +1191,6 @@ export const mapData = {
         "place": "Le Pouget",
         "chapter": 16,
         "event": "On route to Perpignan",
-        "confidence": "high",
         "order": 73
       }
     },
@@ -1280,7 +1207,6 @@ export const mapData = {
         "place": "Clermont-l'Hérault",
         "chapter": 16,
         "event": "On route to Perpignan",
-        "confidence": "high",
         "order": 74
       }
     },
@@ -1297,7 +1223,6 @@ export const mapData = {
         "place": "Pézenas",
         "chapter": 16,
         "event": "On route to Perpignan",
-        "confidence": "high",
         "order": 75
       }
     },
@@ -1314,7 +1239,6 @@ export const mapData = {
         "place": "Béziers",
         "chapter": 16,
         "event": "On route to Perpignan",
-        "confidence": "high",
         "order": 76
       }
     },
@@ -1331,7 +1255,6 @@ export const mapData = {
         "place": "Perpignan",
         "chapter": 16,
         "event": "Pre-border staging",
-        "confidence": "high",
         "order": 77
       }
     },
@@ -1348,7 +1271,6 @@ export const mapData = {
         "place": "Le Soler",
         "chapter": 16,
         "event": "Headed west from Perpignan",
-        "confidence": "high",
         "order": 78
       }
     },
@@ -1365,7 +1287,6 @@ export const mapData = {
         "place": "Ponteilla",
         "chapter": 16,
         "event": "Pre-border route",
-        "confidence": "high",
         "order": 79
       }
     },
@@ -1382,7 +1303,6 @@ export const mapData = {
         "place": "Fourques",
         "chapter": 17,
         "event": "Pyrenees foothills",
-        "confidence": "high",
         "order": 80
       }
     },
@@ -1399,7 +1319,6 @@ export const mapData = {
         "place": "Llauro",
         "chapter": 17,
         "event": "Small hamlet in foothills",
-        "confidence": "high",
         "order": 81
       }
     },
@@ -1416,7 +1335,6 @@ export const mapData = {
         "place": "Reynés",
         "chapter": 17,
         "event": "Last village in France",
-        "confidence": "high",
         "order": 82
       }
     },
@@ -1433,7 +1351,6 @@ export const mapData = {
         "place": "Roc de France",
         "chapter": 17,
         "event": "Pyrenees crossing",
-        "confidence": "medium",
         "order": 83
       }
     },
@@ -1450,7 +1367,6 @@ export const mapData = {
         "place": "Maçanet de Cabrenys",
         "chapter": 18,
         "event": "First village in Spain",
-        "confidence": "high",
         "order": 84
       }
     },
@@ -1467,7 +1383,6 @@ export const mapData = {
         "place": "Pont de Molins",
         "chapter": 18,
         "event": "Spanish route",
-        "confidence": "high",
         "order": 85
       }
     },
@@ -1484,7 +1399,6 @@ export const mapData = {
         "place": "Figueres",
         "chapter": 18,
         "event": "Left around 10th October",
-        "confidence": "high",
         "order": 86
       }
     },
@@ -1501,7 +1415,6 @@ export const mapData = {
         "place": "Vilamalla",
         "chapter": 18,
         "event": "Spanish route",
-        "confidence": "high",
         "order": 87
       }
     },
@@ -1518,7 +1431,6 @@ export const mapData = {
         "place": "Sant Feliu de Guíxols",
         "chapter": 18,
         "event": "Coastal route to Barcelona",
-        "confidence": "high",
         "order": 88
       }
     },
@@ -1535,7 +1447,6 @@ export const mapData = {
         "place": "Tossa de Mar",
         "chapter": 18,
         "event": "Coastal route",
-        "confidence": "high",
         "order": 89
       }
     },
@@ -1552,7 +1463,6 @@ export const mapData = {
         "place": "Malgrat de Mar",
         "chapter": 18,
         "event": "Coastal route",
-        "confidence": "high",
         "order": 90
       }
     },
@@ -1569,7 +1479,6 @@ export const mapData = {
         "place": "Calella",
         "chapter": 18,
         "event": "Coastal route",
-        "confidence": "high",
         "order": 91
       }
     },
@@ -1586,7 +1495,6 @@ export const mapData = {
         "place": "Arenys de Mar",
         "chapter": 18,
         "event": "Coastal route",
-        "confidence": "high",
         "order": 92
       }
     },
@@ -1603,7 +1511,6 @@ export const mapData = {
         "place": "Mataró",
         "chapter": 18,
         "event": "Coastal route",
-        "confidence": "high",
         "order": 93
       }
     },
@@ -1620,7 +1527,6 @@ export const mapData = {
         "place": "Badalona",
         "chapter": 18,
         "event": "Approach to Barcelona",
-        "confidence": "high",
         "order": 94
       }
     },
@@ -1637,7 +1543,6 @@ export const mapData = {
         "place": "Sant Martí",
         "chapter": 18,
         "event": "Approach to Barcelona",
-        "confidence": "high",
         "order": 95
       }
     },
@@ -1654,7 +1559,6 @@ export const mapData = {
         "place": "Barcelona",
         "chapter": 18,
         "event": "Journey end",
-        "confidence": "high",
         "order": 96
       }
     }

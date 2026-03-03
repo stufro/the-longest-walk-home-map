@@ -84,8 +84,7 @@ const geoLayer = L.geoJSON(mapData, {
     layer.bindPopup(`
       <strong>${place}</strong> ${duplicate ? `(Visit #${duplicate})` : ""}<br>
       Step ${order} • Chapter ${chapter}<br>
-      ${event || ""}<br>
-      <em>Confidence: ${confidence || "unknown"}</em>
+      ${event || ""}
     `);
   }
 }).addTo(map);

@@ -40,7 +40,7 @@ data["features"].each do |feature|
   puts geocode_data[:display_name]
 
   feature["geometry"]["coordinates"] = [geocode_data[:lon], geocode_data[:lat]]
-  sleep 1.1
+  sleep 1.1 # Be nice to the OS Map API and avoid hitting the rate limit
 end
 
 File.write("./data/data.geojson", data.to_json)
