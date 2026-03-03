@@ -1,5 +1,3 @@
-import { mapData } from "./mapData.js";
-
 /* ---------- Map setup ---------- */
 
 const map = L.map("map").setView([46.5, 2.5], 6);
@@ -7,6 +5,9 @@ const map = L.map("map").setView([46.5, 2.5], 6);
 L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
   attribution: "&copy; OpenStreetMap contributors"
 }).addTo(map);
+
+const response = await fetch('./data/data.geojson');
+const mapData = await response.json();
 
 /* ---------- Chapter colours ---------- */
 
