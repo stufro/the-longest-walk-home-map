@@ -43,4 +43,4 @@ data["features"].each do |feature|
   sleep 1.1 # Be nice to the OS Map API and avoid hitting the rate limit
 end
 
-File.write("./data/data.geojson", data.to_json)
+File.write("./data/data.geojson", JSON.pretty_generate(data))
