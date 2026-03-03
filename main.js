@@ -31,8 +31,8 @@ const markersByChapter = {};
 
 const geoLayer = L.geoJSON(mapData, {
   pointToLayer: (feature, latlng) => {
+    const order = mapData.features.indexOf(feature) + 1;
     const chapter = feature.properties.chapter;
-    const order = feature.properties.order;
     const duplicate = feature.properties.duplicate;
 
     // Offset duplicate markers to prevent overlapping
@@ -79,7 +79,8 @@ const geoLayer = L.geoJSON(mapData, {
   },
 
   onEachFeature: (feature, layer) => {
-    const { place, chapter, event, confidence, duplicate, order } = feature.properties;
+    const { place, chapter, event, duplicate } = feature.properties;
+    const order = mapData.features.indexOf(feature) + 1;
 
     layer.bindPopup(`
       <strong>${place}</strong> ${duplicate ? `(Visit #${duplicate})` : ""}<br>
@@ -91,13 +92,8 @@ const geoLayer = L.geoJSON(mapData, {
 
 /* ---------- Connect points with lines ---------- */
 
-// Sort features by order to connect them sequentially
-const sortedFeatures = [...mapData.features].sort((a, b) => {
-  return a.properties.order - b.properties.order;
-});
-
 // Create line coordinates
-const lineCoordinates = sortedFeatures.map(feature => {
+const lineCoordinates = mapData.features.map(feature => {
   const latlng = L.latLng(
     feature.geometry.coordinates[1],
     feature.geometry.coordinates[0]
